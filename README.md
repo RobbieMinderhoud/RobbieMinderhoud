@@ -1,10 +1,11 @@
-- Hi, I am Robbie Minderhoud 😄
+- Hi, I am Robbie Minderhoud
 - Nationality 🇳🇱
 - 20 years on this planet 🌍
 - I am a Web Developer at Groome Computer Solutions 💼
 ----------------------------------------------------
-- Work Setup: Macbook Air M1 2020
-- Home Setup: Ryzen 5 2600X | GTX 970 | MSI Optix 2K 165hz
+- Setup: MSI GS66 Stealth | i7 11800h | RTX 3060
 ----------------------------------------------------
 - You can find me at 📧:
 - RobbieMinderhoud@outlook.com
+- techserviceminderhoud.nl
+- info@techserviceminderhoud.nl
