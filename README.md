@@ -1,11 +1,9 @@
 - Hi, I am Robbie Minderhoud
 - Nationality 🇳🇱
 - 21 years on this planet 🌍
-- I am a Web Developer at Groome Computer Solutions 💼
+- I am a Web Developer 💼
 ----------------------------------------------------
 - Setup: MSI GS66 Stealth | i7 11800h | RTX 3060
 ----------------------------------------------------
 - You can find me at 📧:
 - RobbieMinderhoud@outlook.com
-- techserviceminderhoud.nl
-- info@techserviceminderhoud.nl
