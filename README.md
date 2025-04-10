@@ -1,9 +1,9 @@
 - Hi, I am Robbie Minderhoud
 - Nationality 🇳🇱
-- 21 years on this planet 🌍
+- 23 years on this planet 🌍
 - I am a Web Developer 💼
 ----------------------------------------------------
-- Setup: MSI GS66 Stealth | i7 11800h | RTX 3060
+- Setup: Macbook Pro M3 Pro
 ----------------------------------------------------
 - You can find me at 📧:
-- RobbieMinderhoud@outlook.com
+- robbieminderhoud@outlook.com
